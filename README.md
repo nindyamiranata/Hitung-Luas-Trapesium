@@ -45,4 +45,4 @@ Just run the `.py` file in your Python environment (IDLE, Replit, VSCode, etc.)
 
 ---
 
-Thank you for visiting my project! 🌸  
+Thank you for visiting my project! 🌸 btw.. typed in Indonesian (I'm sorryy, maybe next time i will use English for my project..)
